@@ -24,6 +24,9 @@
         * Vị trí theo tọa độ của con mã ban đầu
     + Đầu ra:
         * Đường dẫn chỉ ra cách con mã đi được theo yêu cầu hoặc là thông báo không có đường đi hợp lệ
+    + Ràng buộc:
+        * Con mã phải di chuyển theo quy luật của trò chơi
+        * Không được đi lại ô mà nó đã đi qua
 - Các ràng buộc nếu có.
 
 ### b. Thuật toán/Hướng tiếp cận
@@ -33,11 +36,24 @@
 
 ## Ví dụ minh họa
 ### Ví dụ 1
-- **Input:** Mô tả input
-- **Output:** Mô tả output
-- **Giải thích:** Mô tả cách giải
+- **Input:** 
+    - Nhập đầu vào là độ lớn của bàn cờ, vị trí ban đầu của con mã
+    - Nếu nhập các con số không hợp lệ thì sẽ không thể chạy được chương trình
+- **Output:** 
+    - Nếu không có đường đi nào cho con mã thì sẽ xuất hiện thông báo không tìm được
+    - Nếu có sẽ in ra 1 ma trận, số K được in trên các ô của ma trận đó là bước thứ K từ khi bắt đầu của con mã để tìm được đường đi
+- **Giải thích:**
 
 ### Ví dụ 2
-- **Input:** Mô tả input
-- **Output:** Mô tả output
-- **Giải thích:** Mô tả cách giải
+- **Input:** 
+    - Nhập đầu vào là độ lớn của bàn cờ, vị trí ban đầu của con mã
+    - Nếu nhập các con số không hợp lệ thì sẽ không thể chạy được chương trình
+- **Output:** 
+    - Nếu không có đường đi nào cho con mã thì sẽ xuất hiện thông báo không tìm được
+    - Nếu có sẽ in ra 1 ma trận, số K được in trên các ô của ma trận đó là bước thứ K từ khi bắt đầu của con mã để tìm được đường đi
+- **Giải thích:**
+
+## Link video báo cáo
+
+## Link source code
+https://github.com/MinhDuc-book/BaiTapNhom/tree/main/src
