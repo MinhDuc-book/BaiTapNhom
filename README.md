@@ -37,11 +37,10 @@
 ## Ví dụ minh họa
 ### Ví dụ 1
 - **Input:** 
-    - Nhập đầu vào là độ lớn của bàn cờ, vị trí ban đầu của con mã
-    - Nếu nhập các con số không hợp lệ thì sẽ không thể chạy được chương trình
+    - Nhập đầu vào là độ lớn của bàn cờ: 8x8
+    - Vị trí ban đầu của con mã: 4 5
 - **Output:** 
-    - Nếu không có đường đi nào cho con mã thì sẽ xuất hiện thông báo không tìm được
-    - Nếu có sẽ in ra 1 ma trận, số K được in trên các ô của ma trận đó là bước thứ K từ khi bắt đầu của con mã để tìm được đường đi
+    -
 - **Giải thích:**
 
 ### Ví dụ 2
@@ -49,8 +48,7 @@
     - Nhập đầu vào là độ lớn của bàn cờ, vị trí ban đầu của con mã
     - Nếu nhập các con số không hợp lệ thì sẽ không thể chạy được chương trình
 - **Output:** 
-    - Nếu không có đường đi nào cho con mã thì sẽ xuất hiện thông báo không tìm được
-    - Nếu có sẽ in ra 1 ma trận, số K được in trên các ô của ma trận đó là bước thứ K từ khi bắt đầu của con mã để tìm được đường đi
+    - 
 - **Giải thích:**
 
 ## Link video báo cáo
