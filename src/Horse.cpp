@@ -54,7 +54,7 @@ int main() {
     
     int startX = 0;
     int startY = 0;
-    cout << "Start position of Knight (x y): ";
+    cout << "Start position of Knight: ";
     cin >> startX >> startY;
     if (startX < 0 || startX >= n || startY < 0 || startY >= n) {
         cout << "Start position not valid";
