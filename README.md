@@ -37,19 +37,30 @@
 ## Ví dụ minh họa
 ### Ví dụ 1
 - **Input:** 
-    - Nhập đầu vào là độ lớn của bàn cờ: 8x8
-    - Vị trí ban đầu của con mã: 4 5
+    - Nhập đầu vào là độ lớn của bàn cờ: 
+    - Vị trí ban đầu của con mã: 
 - **Output:** 
-    -
+    - Hình ảnh đầu ra: 
 - **Giải thích:**
+      - Video giải thích: 
 
 ### Ví dụ 2
 - **Input:** 
-    - Nhập đầu vào là độ lớn của bàn cờ, vị trí ban đầu của con mã
-    - Nếu nhập các con số không hợp lệ thì sẽ không thể chạy được chương trình
+    - Nhập đầu vào là độ lớn của bàn cờ: 
+    - Vị trí ban đầu của con mã: 
 - **Output:** 
-    - 
+    - Hình ảnh đầu ra: 
 - **Giải thích:**
+      - Video giải thích: 
+
+### Ví dụ 3
+- **Input:** 
+    - Nhập đầu vào là độ lớn của bàn cờ: 8x8
+    - Vị trí ban đầu của con mã: 4 5
+- **Output:** 
+    - Hình ảnh đầu ra: https://github.com/MinhDuc-book/BaiTapNhom/blob/main/Screenshot%202025-03-07%20182147.png
+- **Giải thích:**
+      - Video giải thích: 
 
 ## Link video báo cáo
 
