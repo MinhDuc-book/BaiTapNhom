@@ -48,8 +48,11 @@
 ### c. Hướng khắc phục:
 - Sử dụng kết hợp các phương pháp như Dynamic Programming hoặc Greedy
 - Nâng cấp phần cứng
-- Thêm vào các ràng buộc khác để có thể sử dụng phương pháp cắt tỉa 
-## Lưu ý: Nên xem các video giải thích ở tốc độ 0.5x 
+- Thêm vào các ràng buộc khác để có thể sử dụng phương pháp cắt tỉa
+
+## Lưu ý: 
+- Nên xem các video giải thích ở tốc độ 0.5x 
+- Khi nhập tọa độ ban đầu cho mã, vì máy tính được đánh chỉ số bắt đầu từ 0 nên nếu muốn con mã bắt đầu ở vị trí x y thì cần nhập vào Terminal là x-1 y-1
 
 ## Ví dụ minh họa
 ### Ví dụ 1
