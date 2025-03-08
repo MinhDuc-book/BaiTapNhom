@@ -3,11 +3,11 @@
 ## Thông tin nhóm
 | STT | Họ và tên          | MSSV   | Vai trò      |
 |-----|--------------------|--------|------------- |
-| 1   | Nguyễn Minh Đức    | 24022779 | Thành viên |
-| 2   | Bùi Minh Hòa       | 24022791 | Nhóm trưởng|
-| 3   | Phạm Huy Hoàng     | 24022793 | Thành viên |
+| 1   | Nguyễn Minh Đức    | 24022779 | Thành viên | 
+| 2   | Bùi Minh Hòa       | 24022791 | Nhóm trưởng| 
+| 3   | Phạm Huy Hoàng     | 24022793 | Thành viên | 
 | 4   | Hoàng Nguyên Vũ    | 24022846 | Thành viên |
-| 5   | Đỗ Khôi Nguyên     | 24022820 | Thành viên |
+| 5   | Đỗ Khôi Nguyên     | 24022820 | Thành viên | 
 
 ## Thông tin bài tập
 - **Tiêu đề:** Bài toán tìm đường đi cho con mã để có thể đi hết bàn cờ và không đi 1 ô 2 lần
