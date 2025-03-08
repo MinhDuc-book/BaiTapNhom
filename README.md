@@ -46,20 +46,17 @@
 - Rất tốn bộ nhớ vì phải đệ quy nhiều lần
 
 ### c. Hướng khắc phục:
-- Sử dụng kết hợp các phương pháp như Dynamic Programming hoặc Greedy
+- Sử dụng kết hợp các phương pháp như Dynamic Programming, Greedy, Warnsdoff's rule
 - Nâng cấp phần cứng
 - Thêm vào các ràng buộc khác để có thể sử dụng phương pháp cắt tỉa
-
-## Lưu ý: 
-- Nên xem các video giải thích ở tốc độ 0.5x 
-- Khi nhập tọa độ ban đầu cho mã, vì máy tính được đánh chỉ số bắt đầu từ 0 nên nếu muốn con mã bắt đầu ở vị trí x y thì cần nhập vào Terminal là x-1 y-1
 
 ## Ví dụ minh họa
 ### Ví dụ 1
 - **Input:** 
     - Nhập đầu vào là độ lớn của bàn cờ: 3x3
     - Vị trí ban đầu của con mã: 0 0
-- **Output:** 
+- **Output:**
+    - Không tìm được đường đi thỏa mãn yêu cầu đề bài
     - Hình ảnh đầu ra: https://github.com/MinhDuc-book/BaiTapNhom/blob/main/Example%203x3.png
 - **Giải thích:**
       - Video giải thích: https://github.com/MinhDuc-book/BaiTapNhom/blob/main/Example%203x3.mp4
@@ -68,7 +65,8 @@
 - **Input:** 
     - Nhập đầu vào là độ lớn của bàn cờ: 5x5
     - Vị trí ban đầu của con mã: 4 4
-- **Output:** 
+- **Output:**
+    - Con mã đi qua tất cả các ô trên bàn cờ, mỗi ô chỉ đi đúng 1 lần
     - Hình ảnh đầu ra: https://github.com/MinhDuc-book/BaiTapNhom/blob/main/Example%205x5.png
 - **Giải thích:**
       - Video giải thích: https://github.com/MinhDuc-book/BaiTapNhom/blob/main/Example%205X5.mp4
@@ -77,12 +75,15 @@
 - **Input:** 
     - Nhập đầu vào là độ lớn của bàn cờ: 8x8
     - Vị trí ban đầu của con mã: 4 5
-- **Output:** 
+- **Output:**
+    - Con mã đi qua tất cả các ô trên bàn cờ và mỗi ô chỉ đi đúng 1 lần
     - Hình ảnh đầu ra: https://github.com/MinhDuc-book/BaiTapNhom/blob/main/Example%208x8.png
 - **Giải thích:**
       - Video giải thích: https://github.com/MinhDuc-book/BaiTapNhom/blob/main/Example%208x8.mp4
 
 ## Link video báo cáo
+- Slide: bit.ly/3DdOIVH
+- Bài thuyết trình: https://github.com/MinhDuc-book/BaiTapNhom/blob/main/thuyet_trinh.mp4
 
 ## Link source code
 https://github.com/MinhDuc-book/BaiTapNhom/tree/main/src
